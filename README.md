@@ -41,6 +41,11 @@ docker run --rm -it DatosCovid19
 
 
 ### Archivos Finales
-El script gererara 2 archivos para su analisis
+El script gererara 1 carpeta llamada Data dentro de la cual encontraremos estos 2 archivos para su analisis.
 * Sonora_Hipertensos_Confirmados.csv
 * Sonora_Hipertensos_Confirmados_Defunciones.csv
+
+### Nota
+Para la interpretacion de la informacion es necesario el Diccionario de datos que de descarga automaticamente en la carpeta "Data"
+ * Catalogos.xlsx
+ * Descriptores.xlsx
