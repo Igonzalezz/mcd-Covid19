@@ -3,3 +3,4 @@ title: Descargando y analizando los datos de COVID-19
 show_downloads: true
 github:
   zip_url: https://github.com/Igonzalezz/mcd-Covid19/raw/main/docker.zip
+  another_url: https://github.com/Igonzalezz/mcd-Covid19/raw/main/Docker.tar.gz
