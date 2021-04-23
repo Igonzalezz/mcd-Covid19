@@ -26,7 +26,7 @@ docker run --rm -it osvaldo17/mcd-actividad2
 ``
 
 #### Metodo 2
-1. Descargar el zip file y descomprimirlo.
+1. Descargar el [zip file](https://github.com/Igonzalezz/mcd-Covid19/raw/main/docker.zip) y descomprimirlo.
 2. En consola posicionarse en la ruta donde se descomprimio el archivo y correr el siguiente comando para generar la imagen.
 
 ``
