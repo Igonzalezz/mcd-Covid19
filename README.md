@@ -8,17 +8,19 @@ Este proyecto contiene un Dockerfile para poder generar un contenedor con los co
 Las bases de datos depuradas estan enfocadas para el analisis de la cantidad de personas infectadas con Covid-19 dentro del Municipio de Cajeme con Hipertension (Recuperadas y Fallecidas)
 
 
-###  Software necesario
+### Software necesario
 * [Docker](https://www.docker.com/get-started)
 
 ### Instalación
 #### Metodo 1
 1. En consola escribir el siguiente comando para descargar la imagen.
+
 ``
 docker pull osvaldo17/mcd-actividad2
 ``
 
-2.- Escribir el siguiente comando para generar el contenedor.
+2. Escribir el siguiente comando para generar el contenedor.
+
 ``
 docker run --rm -it osvaldo17/mcd-actividad2
 ``
@@ -26,13 +28,17 @@ docker run --rm -it osvaldo17/mcd-actividad2
 #### Metodo 2
 1. Descargar el zip file y descomprimirlo.
 2. En consola posicionarse en la ruta donde se descomprimio el archivo y correr el siguiente comando para generar la imagen.
+
 ``
 docker build -t DatosCovid19 .
 ``
+
 3. Escribir el siguiente comando para generar el contenedor.
+
 ``
 docker run --rm -it DatosCovid19
 ``
+
 
 ### Archivos Finales
 El script gererara 2 archivos para su analisis
