@@ -1,4 +1,4 @@
-# Practica 2 (Descargando y analizando los datos de COVID-19)
+# Practica 2
 Este repositorio es un ejemplo practico de lo que se ha estado viendo en el curso "Herramientas de Productividad" impartida por el Maesto [Julio Waissman](https://github.com/jwaissman).
 
 ### Descripcion
